@@ -1,4 +1,4 @@
-# Exp3
+# NRA
 Temporary repository for NRA.
 
 The code is in preparation and will be released soon...
