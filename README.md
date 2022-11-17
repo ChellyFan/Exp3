@@ -1,4 +1,4 @@
-# NRA: Noise-Restoring Attack against
+# NRA: Noise-Restoring Attack against Variational Modeling Defence
 This repository contains the implementation of NRA based on IGA as well as an example jupyter notebook where the NRA is used. Besides, visualizations of some experimental results are shown here. 
 
 Examples of exemplary reconstruction results of CIFAR-10 dataset for the baseline DMLP and LeNet models and different attack&defense:
